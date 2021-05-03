@@ -20,14 +20,14 @@ console.log(maistas);
 const kelnes = 'juodos';
 console.log(kelnes);
 
-const pinigai = [5, 10, 20, 50, 100];
-console.log(pinigai);
+const piniguSkaicius = [5, 10, 20, 50, 100];
+console.log(piniguSkaicius);
 
 const sveikiPirstai = [1, 2, 3, 4, 5];
 console.log(sveikiPirstai);
 
-const saldainiu = [1, 2, 3, 4, 5];
-console.log(saldainiu);
+const saldainiukai = [1, 2, 3, 4, 5];
+console.log(saldainiukai);
 
 const spalvos = ['balta', 'juoda', 'melyna', 'zalia', 'geltona'];
 console.log(spalvos);
