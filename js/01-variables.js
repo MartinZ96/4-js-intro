@@ -1,3 +1,19 @@
+/*
+KINTAMIEJI:
+tipai, pagal iniciavimo buda:
+- const (default)
+- let
+- var (nenaudoti)
+pagal informacijos tipa:
+- number (skaicius)
+- string (tekstas)
+- boolean (logine reiksme)
+- array (sarasas)
+- object (objektas)
+- null
+- undefined
+*/
+
 const amzius = 24;
 const pirstai = 5;
 const lapai = 2;
